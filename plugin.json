@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "MIO",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "MIO",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Ngocleeeeee/vbook-extensions/master/mio/plugin.zip",
+      "version": 9,
+      "source": "https://miotranslatorteam.wordpress.com",
+      "icon": "https://raw.githubusercontent.com/Ngocleeeeee/vbook-extensions/master/mio/icon.png",
+      "description": "Đọc truyện trên trang bachngocsach.com.vn/reader",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+    
+  ]
+}
